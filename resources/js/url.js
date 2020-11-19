@@ -1,3 +1,3 @@
-const url = 'http://127.0.0.1:8000' 
+const url = 'https://pure-mountain-75788.herokuapp.com' 
 
 export default url
